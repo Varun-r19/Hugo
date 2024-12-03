@@ -1,0 +1,18 @@
+{
+  "": {
+    "title": "My 1st post",
+    "content": "Hi this is my new Hugo project\n\t[helo](/${static_dir}/content/helo.md)\n\t\nada\na\nsaasd\nadaa\n",
+    "lastmodified": "2024-12-03T13:40:13.2236427+05:30",
+    "tags": [
+      "first"
+    ]
+  },
+  "/helo": {
+    "title": "My 1st post",
+    "content": "hello this is intro \nifki\ndd\n",
+    "lastmodified": "2024-12-03T13:40:53.1463319+05:30",
+    "tags": [
+      "first"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "index": {
+    "links": {
+      "": [
+        {
+          "source": "",
+          "target": "/$%7Bstatic_dir%7D/content/helo",
+          "text": "helo"
+        }
+      ]
+    },
+    "backlinks": {
+      "/$%7Bstatic_dir%7D/content/helo": [
+        {
+          "source": "",
+          "target": "/$%7Bstatic_dir%7D/content/helo",
+          "text": "helo"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "",
+      "target": "/$%7Bstatic_dir%7D/content/helo",
+      "text": "helo"
+    }
+  ]
+}

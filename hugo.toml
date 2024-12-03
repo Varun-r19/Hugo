@@ -1,0 +1,41 @@
+baseURL = "https://varunr.com/"
+title = "Varun R"
+paginate = 5
+theme = "PaperMod"
+
+[params]
+  env = "production"
+  description = "Varun R's personal website"
+  keywords = ["Varun R", "Blog", "Portfolio"]
+  author = "Varun R"
+
+[params.assets]
+  favicon = "<link / abs url>"
+  favicon16x16 = "<link / abs url>"
+  favicon32x32 = "<link / abs url>"
+  apple_touch_icon = "<link / abs url>"
+  safari_pinned_tab = "<link / abs url>"
+
+[menu]
+  [[menu.main]]
+    identifier = "Github"
+    name = "Github"
+    url = "https://github.com/Varun-r19"
+    weight = 10
+[markup]
+  [markup.highlight]
+    noClasses = false
+    pygmentsUseClasses = true
+
+[hugo]
+  minify = true
+  disableXML = true
+  minifyOutput = true
+
+[server]
+  watch = true
+
+[build]
+  writeStats = true
+
+
