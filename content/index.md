@@ -36,7 +36,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 Hi this is my new Hugo project
-	[helo](/${static_dir}/content/helo.md)
+	[helo](/content/helo.md)
 	
 ada
 a
